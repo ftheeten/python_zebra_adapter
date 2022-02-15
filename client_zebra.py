@@ -1,6 +1,6 @@
 import argparse
 from client import Client
-from labal_darwin import DarwinClientZebra
+from label_darwin import DarwinClientZebra
 import io
 from threading import Lock
 import socket, select, sys
